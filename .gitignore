@@ -1,0 +1,103 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.dist/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyTorch Models (large files)
+*.pth
+*.pt
+*.ckpt
+
+# Data files (large CSV files)
+nodes.csv
+relationships.csv
+*.csv
+# Exception: keep small sample files
+!sample_*.csv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+plag/data/
+plag/database/*.db
+
+# Logs
+*.log
+logs/
+plag/logs/
+aura.log
+
+# Exports
+plag/exports/
+exports/
+
+# User uploaded files
+arxiv_sources/
+*.pdf
+new_paper_to_check.txt
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment variables
+.env
+.env.local
+
+# Backups
+plag/data/backups/
+*.backup
+
+# Cache
+.cache/
+*.cache
+
+# Static files (if generated)
+static/uploads/
+static/temp/
+
+# Test outputs
+test_outputs/
+temp/
+tmp/
