@@ -245,9 +245,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Mohan** - [@mohan120105](https://github.com/mohan120105)
+**Mohan** - [@kartheekpotnuru9](https://github.com/kartheekpotnuru9)
 
-Project Link: [https://github.com/mohan120105/aura-plagiarism-detection](https://github.com/mohan120105/aura-plagiarism-detection)
+Project Link: [https://github.com/kartheekpotnuru9/aura-plagiarism-detection](https://github.com/kartheekpotnuru9/aura-plagiarism-detection)
 
 ## 📈 Roadmap
 
